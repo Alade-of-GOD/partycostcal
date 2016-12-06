@@ -1,0 +1,14 @@
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\bin\Debug\DinnerPartyCost.exe.config
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\bin\Debug\DinnerPartyCost.exe
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\bin\Debug\DinnerPartyCost.pdb
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\obj\Debug\DinnerPartyCost.Form1.resources
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\obj\Debug\DinnerPartyCost.Properties.Resources.resources
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\obj\Debug\DinnerPartyCost.csproj.GenerateResource.Cache
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\obj\Debug\DinnerPartyCost.exe
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\obj\Debug\DinnerPartyCost.pdb
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\obj\Debug\DinnerPartyCost.csprojResolveAssemblyReference.cache
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\bin\Debug\DinnerPartyCost.exe.manifest
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\bin\Debug\DinnerPartyCost.application
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\obj\Debug\DinnerPartyCost.exe.manifest
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\obj\Debug\DinnerPartyCost.application
+C:\Users\Micheal\Visual Studio Projects\DinnerPartyCost\DinnerPartyCost\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
